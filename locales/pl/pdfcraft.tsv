@@ -3885,4 +3885,4 @@ document scrollbar width	Wide	Szeroki
 	Waiting for the first side to reach the printer…	Oczekiwanie, aż pierwsza strona dotrze do drukarki…
 	Wait until the second side of the last two-sided print has reached the printer, then print again.	Poczekaj, aż druga strona ostatniego druku dwustronnego dotrze do drukarki, a następnie drukuj ponownie.
 	The second side stopped partway: {error}. Part of it may have printed, so check the stack and print the rest again.	Druga strona zatrzymała się w połowie: {error}. Jej część mogła zostać wydrukowana, więc sprawdź stos i wydrukuj resztę ponownie.
-	Cut and stack needs single-sided sheets. Turn off Manual two-sided.	Tryb „Wytnij i ułóż w stos” wymaga arkuszy jednostronnych. Wyłącz „Ręczny druk dwustronny”.
+	Cut and stack needs single-sided sheets. Turn off Manual two-sided.	Tryb „Przetnij i ułóż w stos” wymaga arkuszy jednostronnych. Wyłącz „Ręczny druk dwustronny”.
